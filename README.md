@@ -2291,9 +2291,7 @@ a.prototype-link {
 
 ```
 
-
 ## OUTPUT:
-![alt text](<Screenshot 2026-03-13 105241.png>)
-
+![alt text](<Screenshot 2026-03-13 112956.png>)
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
